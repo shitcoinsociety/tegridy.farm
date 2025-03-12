@@ -1,4 +1,4 @@
-# Tegridy
+# Grow with Tegridy
 
 Tegridy is fusing law, nature, and technology to build the ultimate crowd-growing platform.
 
